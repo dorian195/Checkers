@@ -1,0 +1,6 @@
+﻿  Gameboard.cpp
+  Pawn.cpp
+  Queen.cpp
+  Generowanie kodu...
+c:\users\dorian\desktop\checkers\checkers\gameboard.cpp(228): warning C4715: "Gameboard::makeMoveIfCorrect”: niewszystkie ścieżki kodu zwracają wartość
+  Checkers.vcxproj -> C:\Users\Dorian\Desktop\Checkers\x64\Debug\Checkers.exe
